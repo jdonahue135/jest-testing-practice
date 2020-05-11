@@ -1,0 +1,1 @@
+Create unit tests for basic functions as part of [The Odin Project's curriculum](https://www.theodinproject.com/courses/javascript/lessons/testing-practice)
